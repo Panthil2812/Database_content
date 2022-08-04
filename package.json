@@ -2,7 +2,7 @@
   "name": "shopify-app-node",
   "private": true,
   "scripts": {
-    "start": "node server/index.js"
+     "start": "node server/index.js"
  
      },
   "type": "module",
